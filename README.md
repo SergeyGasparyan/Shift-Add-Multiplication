@@ -5,4 +5,4 @@ The only requirement is, to install tkinter
 `pip install tk`
 
 Here is an example of app.
-![alt text](786569-widescreen-dark-skies-wallpaper-1920x1080.jpg)
+![alt text](assets/Screenshot_20211123_211758.png)
